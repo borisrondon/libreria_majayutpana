@@ -1,0 +1,360 @@
+[
+  { "model": "api.tipodocumento", "pk": 4, "fields": { "titulo": "Cédula" } },
+  {
+    "model": "api.tipodocumento",
+    "pk": 5,
+    "fields": { "titulo": "Tarjeta de identidad" }
+  },
+  {
+    "model": "api.tipodocumento",
+    "pk": 6,
+    "fields": { "titulo": "Permiso Especial de Permanencia" }
+  },
+  { "model": "api.sexo", "pk": 1, "fields": { "sexo": "Femenino" } },
+  { "model": "api.sexo", "pk": 2, "fields": { "sexo": "Masculino" } },
+  {
+    "model": "api.libro",
+    "pk": "9781234567001",
+    "fields": { "nombre": "Tesoro del saber" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567002",
+    "fields": { "nombre": "Tesoro del saber" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567003",
+    "fields": { "nombre": "Tesoro del saber" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567004",
+    "fields": { "nombre": "Tesoro del saber" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567005",
+    "fields": { "nombre": "Tesoro del saber 3era Edición1" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567006",
+    "fields": { "nombre": "Tesoro del saber 3era Edición" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567007",
+    "fields": { "nombre": "Tesoro del saber 3era Edición" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567008",
+    "fields": { "nombre": "Diccionario de español" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567009",
+    "fields": { "nombre": "Diccionario de español Larouse" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567010",
+    "fields": { "nombre": "Diccionario de ingles" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567011",
+    "fields": { "nombre": "Diccionario de inglés Larousse" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567012",
+    "fields": { "nombre": "Diccionario sinónimo y antónimo" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567013",
+    "fields": { "nombre": "Libros de literatura" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567014",
+    "fields": { "nombre": "El Éxito comienza en grado" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567015",
+    "fields": { "nombre": "Nachos" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567016",
+    "fields": { "nombre": "Medio ambiente" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567017",
+    "fields": { "nombre": "Religión" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567018",
+    "fields": { "nombre": "Los tres editores reflexión" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567019",
+    "fields": { "nombre": "Violencia y sociedad" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567020",
+    "fields": { "nombre": "Competencia y estándares sociales" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567021",
+    "fields": { "nombre": "Competencia y estándares filosofía" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567022",
+    "fields": { "nombre": "Competencia y estándares ingles" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567023",
+    "fields": { "nombre": "Competencia y estándares biología" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567024",
+    "fields": { "nombre": "Competencia y estándares Matemática" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567025",
+    "fields": { "nombre": "Competencia y estándares informática" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567026",
+    "fields": { "nombre": "Competencia y estándares química" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567027",
+    "fields": { "nombre": "Los tres editores reflexión" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567028",
+    "fields": { "nombre": "Violencia y sociedad" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567029",
+    "fields": { "nombre": "Lectores competentes 2, 3, 4, 5" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567030",
+    "fields": { "nombre": "Libros de sociales" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567031",
+    "fields": { "nombre": "Libros de sociales" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567032",
+    "fields": { "nombre": "Libros de sociales" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567033",
+    "fields": { "nombre": "Libros de sociales" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567034",
+    "fields": { "nombre": "Nivelación transición" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567035",
+    "fields": { "nombre": "Nivelación" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567036",
+    "fields": { "nombre": "Nivelación" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567037",
+    "fields": { "nombre": "Nivelación" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567038",
+    "fields": { "nombre": "Nivelación" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567039",
+    "fields": { "nombre": "Competencia comunicativa" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567040",
+    "fields": { "nombre": "Leer, comprender y producir" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567041",
+    "fields": { "nombre": "Libros de ingles" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567042",
+    "fields": { "nombre": "Way Togo! Guia" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567043",
+    "fields": { "nombre": "Way Togo! Guia" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567044",
+    "fields": { "nombre": "Way Togo! Guia" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567045",
+    "fields": { "nombre": "Way Togo! Estudiante" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567046",
+    "fields": { "nombre": "Way Togo! Estudiante" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567047",
+    "fields": { "nombre": "Way Togo! Estudiante" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567048",
+    "fields": { "nombre": "Way Togo! Estudiante" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567049",
+    "fields": { "nombre": "Englesh please Guia 1" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567050",
+    "fields": { "nombre": "Englesh Please Estudiante 1" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567051",
+    "fields": { "nombre": "Englesh Please Guia 2" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567052",
+    "fields": { "nombre": "Englesh Please Estudiante 2" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567053",
+    "fields": { "nombre": "Englesh Please Guia 3" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567054",
+    "fields": { "nombre": "Englesh Please Estudiante 3" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567055",
+    "fields": { "nombre": "El Éxito comienza en 10, tomo 1" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567056",
+    "fields": { "nombre": "El Éxito comienza en 10, tomo 2" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567057",
+    "fields": { "nombre": "Libro de wayuunaki" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567058",
+    "fields": { "nombre": "Aalosu" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567059",
+    "fields": { "nombre": "Vamos hablar nuestra lengua" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567060",
+    "fields": { "nombre": "Especial de salvaguardia" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567061",
+    "fields": { "nombre": "Tu laulaasu kaa putchi" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567062",
+    "fields": { "nombre": "En la onda de la investigación" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567063",
+    "fields": { "nombre": "Pumatuanasu atijalaaki kaiu" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567064",
+    "fields": { "nombre": "Muleka waitunin ska ipa" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567065",
+    "fields": { "nombre": "Sanamiento básico salud e higiene" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567066",
+    "fields": { "nombre": "Educación para la sexualidad" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567067",
+    "fields": { "nombre": "El trapito feliz" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567068",
+    "fields": { "nombre": "Pirinpechonkai" }
+  },
+  {
+    "model": "api.libro",
+    "pk": "9781234567069",
+    "fields": { "nombre": "Proyecto etnoeducativo" }
+  }
+]
