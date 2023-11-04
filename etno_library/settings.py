@@ -108,16 +108,21 @@ WSGI_APPLICATION = "etno_library.wsgi.application"
 
 DATABASES = {
     "default": {
-        "ENGINE": "django.db.backends.mysql",
-        "NAME": "etno_library",
-        "USER": "root",
-        "PASSWORD": "root",
-        "HOST": "127.0.0.1",
-        "PORT": "3666",
-        "OPTIONS": {"charset": "utf8"},
-        "TEST_CHARSET": "utf8",
-        "TIME_ZONE": "America/Bogota",
+        "ENGINE": "django.db.backends.sqlite3",
+        "NAME": "db",  # This is where you put the name of the db file.
+        # If one doesn't exist, it will be created at migration time.
     }
+    # "default": {
+    #     "ENGINE": "django.db.backends.mysql",
+    #     "NAME": "etno_library",
+    #     "USER": "root",
+    #     "PASSWORD": "root",
+    #     "HOST": "127.0.0.1",
+    #     "PORT": "3666",
+    #     "OPTIONS": {"charset": "utf8"},
+    #     "TEST_CHARSET": "utf8",
+    #     "TIME_ZONE": "America/Bogota",
+    # }
 }
 
 

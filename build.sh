@@ -9,5 +9,4 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py loaddata default_info.json
 python manage.py loaddata default_info_and_root_user.json
-python start_cronloop.py
 # python manage.py cronloop &
